@@ -49,8 +49,27 @@ This project implements an automated resume screening system that processes resu
 
 3. **Run the Dashboard**:
    ```bash
-   streamlit run dashboard/app.py
+   streamlit run app.py
    ```
+   
+## 🚀 Live Demo
+
+You can access the live demo of this application deployed on Streamlit Community Cloud:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+
+## 🔧 Deployment
+
+This app is configured for easy deployment on Streamlit Community Cloud:
+
+1. Fork this repository
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Connect your GitHub account
+4. Select this repository
+5. Set the main file path to `app.py`
+6. Deploy!
+
+The app will automatically install all dependencies from `requirements.txt` and `packages.txt`.
 
 ## Usage
 
