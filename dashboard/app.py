@@ -64,7 +64,7 @@ def main():
     """Main dashboard function."""
     
     # Header
-    st.markdown('<h1 class="main-header">📄 Automated Resume Screening and Dashboarding for Salesforce Engineer Hiring</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">📄 Resume Screening for Salesforce Engineer Hiring</h1>', unsafe_allow_html=True)
     st.markdown("### Resume Analysis & Candidate Evaluation System")
     
     # Sidebar
