@@ -1,0 +1,25 @@
+Stephanie Johnson
+s | + | Boston, MA
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Testing, C#, Illustrator, Ruby, Outlook, Kotlin, Teams, Jira, Trello, Excel, Php, Cpq, Wordpress, Swift, Vue, Go, C++, Django, Rust, Kubernetes, Heroku, Aws, Sql, Soql, Soap
+
+EXPERIENCE
+Salesforce Developer at Amazon - 2 years
+Worked on salesforce developer projects
+
+Salesforce Consultant at Zendesk - 1 years
+Worked on salesforce consultant projects
+
+Salesforce Engineer at IBM - 1 years
+Worked on salesforce engineer projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Integration Architecture Designer

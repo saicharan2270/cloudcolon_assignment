@@ -1,0 +1,19 @@
+Thomas Diaz
+t | + | Boston, MA
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+C#, Kotlin, Teams, Excel, Php, Cpq, Visualforce, Wordpress, Swift, Spring, Go, Dx, Asana, Java, React, Sosl, Rust, Aws, Css, Apex, Sql, Soap
+
+EXPERIENCE
+Frontend Developer at EY - 3 years
+Worked on frontend developer projects
+
+
+EDUCATION
+Bachelor of Arts in Computer Science
+
+CERTIFICATIONS
+Platform Developer I, CPQ Specialist

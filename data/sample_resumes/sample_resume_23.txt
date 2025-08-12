@@ -1,0 +1,25 @@
+Kimberly Flores
+k | + | Austin, TX
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Illustrator, Azure, Jira, Cpq, Word, Integration, Go, Dx, Angular, Agile, Api, Javascript, React, Git, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, C++, Django, Salesforce, Kubernetes, Apex, Css, Soql, Soap
+
+EXPERIENCE
+Backend Developer at Adobe - 2 years
+Worked on backend developer projects
+
+Salesforce Developer at Oracle - 1 years
+Worked on salesforce developer projects
+
+Senior Salesforce Developer at Adobe - 2 years
+Worked on senior salesforce developer projects
+
+
+EDUCATION
+Associate Degree in Programming
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, CPQ Specialist

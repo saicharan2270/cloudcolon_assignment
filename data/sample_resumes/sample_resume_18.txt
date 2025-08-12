@@ -1,0 +1,22 @@
+George Torres
+g | + | Boston, MA
+
+SUMMARY
+Experienced professional with 4 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Illustrator, Outlook, Kotlin, Teams, Html, Cpq, Visualforce, Vue, Integration, Dx, Node.Js, Agile, Python, Api, Javascript, Service Cloud, Sosl, Rest, Marketing Cloud, Salesforce, Lightning, Heroku, Apex, Css, Scrum, Soql
+
+EXPERIENCE
+DevOps Engineer at ServiceNow - 2 years
+Worked on devops engineer projects
+
+Frontend Developer at Amazon - 1 years
+Worked on frontend developer projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Sales Cloud Consultant, CPQ Specialist

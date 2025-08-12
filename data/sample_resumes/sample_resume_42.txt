@@ -1,0 +1,25 @@
+Anthony Lewis
+a | + | Boston, MA
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Slack, C#, Illustrator, Outlook, Kotlin, Azure, Trello, Excel, Swift, Word, Vue, Go, Node.Js, Agile, Asana, Javascript, Java, Marketing Cloud, C++, Django, Rust, Heroku, Apex, Jira
+
+EXPERIENCE
+Salesforce Engineer at Deloitte - 3 years
+Worked on salesforce engineer projects
+
+Software Engineer at Accenture - 2 years
+Worked on software engineer projects
+
+DevOps Engineer at TCS - 3 years
+Worked on devops engineer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+Platform Developer I

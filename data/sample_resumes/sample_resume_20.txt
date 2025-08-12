@@ -1,0 +1,19 @@
+Helen Young
+h | + | Seattle, WA
+
+SUMMARY
+Experienced professional with 1 years of experience in software development and technology solutions.
+
+SKILLS
+Illustrator, Trello, Html, Vue, Integration, Spring, Dx, Api, Javascript, Java, Git, Service Cloud, Docker, Rest, Marketing Cloud, Django, Powerpoint, Salesforce, Lightning, Heroku, Express, Apex, Scrum, Sql, Soql
+
+EXPERIENCE
+Frontend Developer at TCS - 2 years
+Worked on frontend developer projects
+
+
+EDUCATION
+Bachelor of Arts in Computer Science
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Administrator

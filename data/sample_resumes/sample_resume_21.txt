@@ -1,0 +1,22 @@
+Andrew Lopez
+a | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 1 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, C#, Illustrator, Outlook, Azure, Jira, Php, Html, Cpq, Integration, Node.Js, Angular, Agile, Api, Javascript, Java, React, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, Powerpoint, Salesforce, Lightning, Heroku, Apex, Css, Sql, Soql, Soap
+
+EXPERIENCE
+Salesforce Engineer at Salesforce - 1 years
+Worked on salesforce engineer projects
+
+Software Engineer at IBM - 1 years
+Worked on software engineer projects
+
+
+EDUCATION
+Associate Degree in Programming
+
+CERTIFICATIONS
+Platform Developer I, CPQ Specialist, Marketing Cloud Consultant, Integration Architecture Designer

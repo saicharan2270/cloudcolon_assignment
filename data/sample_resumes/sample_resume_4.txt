@@ -1,0 +1,25 @@
+Edward Thompson
+e | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 5 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Testing, Teams, Php, Html, Cpq, Visualforce, Vue, Integration, Go, Dx, Agile, Api, Javascript, Git, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, Salesforce, Lightning, Heroku, Express, Soql, Soap
+
+EXPERIENCE
+Apex Developer at Zendesk - 2 years
+Worked on apex developer projects
+
+Full Stack Developer at Wipro - 1 years
+Worked on full stack developer projects
+
+Frontend Developer at Oracle - 1 years
+Worked on frontend developer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Administrator, Sales Cloud Consultant, Service Cloud Consultant, CPQ Specialist, Marketing Cloud Consultant

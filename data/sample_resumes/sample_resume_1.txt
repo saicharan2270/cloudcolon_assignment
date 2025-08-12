@@ -1,0 +1,25 @@
+Joyce Roberts
+j | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Testing, Azure, Trello, Cpq, Visualforce, Integration, Spring, Dx, Angular, Agile, Python, Api, Javascript, Java, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, Salesforce, Lightning, Heroku, Aws, Apex, Scrum, Sql, Soql, Soap
+
+EXPERIENCE
+Backend Developer at SAP - 3 years
+Worked on backend developer projects
+
+System Administrator at Zendesk - 3 years
+Worked on system administrator projects
+
+Full Stack Developer at KPMG - 1 years
+Worked on full stack developer projects
+
+
+EDUCATION
+Master of Business Administration
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Sales Cloud Consultant, Service Cloud Consultant

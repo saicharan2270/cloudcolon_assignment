@@ -1,0 +1,19 @@
+Christopher Nelson
+c | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 6 years of experience in software development and technology solutions.
+
+SKILLS
+Ruby, Cpq, Vue, Integration, Dx, Api, Asana, Javascript, Java, Git, Service Cloud, Sosl, Docker, Rest, Salesforce, Lightning, Heroku, Apex, Scrum, Sql, Soap
+
+EXPERIENCE
+Software Engineer at Salesforce - 2 years
+Worked on software engineer projects
+
+
+EDUCATION
+Master of Business Administration
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Sales Cloud Consultant, Service Cloud Consultant, Marketing Cloud Consultant, Integration Architecture Designer

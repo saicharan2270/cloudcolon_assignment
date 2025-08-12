@@ -1,0 +1,22 @@
+Brian Nelson
+b | + | Austin, TX
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Slack, C#, Illustrator, Outlook, Kotlin, Teams, Azure, Trello, Excel, Php, Cpq, Wordpress, Swift, Word, Spring, Go, Asana, Java, Service Cloud, Rest, Powerpoint, Django, Salesforce, Rust, Jira
+
+EXPERIENCE
+Lightning Developer at Google - 3 years
+Worked on lightning developer projects
+
+Salesforce Consultant at KPMG - 1 years
+Worked on salesforce consultant projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer II

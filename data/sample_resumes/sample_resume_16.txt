@@ -1,0 +1,25 @@
+Jeffrey Davis
+j | + | Boston, MA
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Testing, Kotlin, Teams, Azure, Excel, Html, Wordpress, Swift, Integration, Dx, Api, Javascript, Java, Git, Service Cloud, Sosl, Rest, Powerpoint, Salesforce, Rust, Kubernetes, Heroku, Express, Apex, Css, Soql
+
+EXPERIENCE
+Senior Salesforce Developer at Google - 1 years
+Worked on senior salesforce developer projects
+
+Apex Developer at KPMG - 2 years
+Worked on apex developer projects
+
+Salesforce Consultant at Cognizant - 2 years
+Worked on salesforce consultant projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Administrator, Sales Cloud Consultant, Service Cloud Consultant

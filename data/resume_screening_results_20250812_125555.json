@@ -1,0 +1,387 @@
+{
+  "processing_summary": {
+    "total_resumes_processed": 2,
+    "unique_resumes": 2,
+    "duplicate_groups_found": 0,
+    "duplicate_percentage": 0.0
+  },
+  "top_candidates": [
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmphmxvoa_p\\SaiCharan_Analyst.pdf",
+      "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects PIZZA HUT Analyzed Pizza Hut database using MySQL -Utilized MySQL to analyze the Pizza Hut database, determining total orders, revenue, highest-priced pizza, most common size, and the top 5 most ordered pizza types -Conducted advanced data analysis using MySQL to evaluate revenue contributions by pizza type, optimizing pricing strategies AMAZON SALES ANALYSIS USING POWER BI Prepared a comprehensive project that focused on analysing and visualising sales data of a sales company -Developed an advanced Amazon Sales Analytics dashboard using Power BI, enabling real-time insights into sales performance, profit margins and regional sales distribution -Utilized interactive visualizations, including treemaps, line charts, and KPIs, to present key sales metrics, driving strategic decision-making and optimizing sales strategies YOUTUBE LINK TO PDF GENERATOR Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Technical Skills and Interests Skills DBMS, Machine Learning, MS Excel, Power BI, Data Structures and Algorithms Languages C, Python, SQL Frameworks Pandas, Numpy, Matplotlib, Scikit-Learn Course Work OOPS, Database Management Systems, Operating System, Linear Algebra, Statistics Areas of Interest Data Analytics, Event Management, Digital Product Management, Marketing, Strategic Thinking, Data Visualization, Product Development. Soft Skills Fluent Communication, Presentation Skills, Leadership, Teamwork, Collaboration, Analytical Skills, Detail-Oriented, Adaptability, Problem-Solving, Data Insights Positions of Responsibility Programme Committee Executive, Tathva22 Public Relations Committee Head, Ragam23 Pro Show Head, Ragam25 Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_Analyst.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [
+        "Linear Algebra",
+        "Fluent Communication",
+        "MS Excel",
+        "Strategic Thinking",
+        "Python",
+        "Marketing",
+        "SQL",
+        "Leadership",
+        "Event Management",
+        "Scikit-Learn",
+        "Data Analytics",
+        "and Interests Skills DBMS",
+        "Teamwork",
+        "Adaptability",
+        "Statistics",
+        "Data Structures and Algorithms",
+        "Pandas",
+        "OOPS",
+        "Data Visualization",
+        "Presentation Skills",
+        "Machine Learning",
+        "Digital Product Management",
+        "Numpy",
+        "Detail-Oriented",
+        "Analytical Skills",
+        "Collaboration",
+        "Matplotlib",
+        "Problem-Solving",
+        "Operating System",
+        "Data Insights",
+        "Database Management Systems",
+        "Power BI",
+        "Product Development"
+      ],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Python",
+        "Sql",
+        "Go"
+      ],
+      "tfidf_score": 0.8770555109149993,
+      "bert_score": 0.40491729974746704,
+      "skill_score": 0.9696969696969697,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.6165243556482356,
+      "classification": "Low Relevance"
+    },
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmphmxvoa_p\\SaiCharan_sw.pdf",
+      "raw_text": "JOGAM SAI CHARAN 91-9441474743 envelpejogamsaicharan22@gmail.com linkedinLinkedIn githubGitHub Summary Engineering graduate with strong programming skills in C and JavaScript. Experienced in developing and deploying full stack web applications, with a focus on scalable backend services, and seamless API integration. Eager to contribute to real world software development in a collaborative, agile environment while continuously learning and growing. Projects Chatrix MongoDB, React.js, Express.js, Node.js Developed a real-time messaging app using the MERN stack and Socket.io, reducing text and image delivery latency to 300ms. Built a responsive UI with DaisyUI and managed dynamic state using Zustand, improving UX and reducing load time by 40. Utilized Cloudinary for image uploads and MongoDB for storing user data and chat history efficiently. Toxic Comment Detector Spring Boot, Java, REST API, Maven Developed a backend microservice using Spring Boot that analyzes and scores user comments for toxicity in real time. Integrated a Python based machine learning model for natural language processing to return toxicity scores with 95 accuracy. Exposed RESTful API endpoints with input validation, secure CORS configuration, and modular service layers for scalability. Achieved an average response latency of 300ms under concurrent request loads using optimized request handling and model inference. Technical Skills Skills Data Structures & Algorithms, Full-Stack Development, Object-Oriented Programming, Node.js, RESTful APIs, Microservices, Problem Solving. Languages C, Golang, Java, JavaScript, SQL. Frameworks & Libraries Spring Boot, Express.js, React.js. Technologies Linux, Docker, Kubernetes, MySQL, MongoDB. Developer Tools Git, GitHub, VS Code, Postman. CS Fundamentals RDBMS, Operating Systems, Computer Networks. Education National Institute of Technology Calicut, Kozhikode, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC Percentage 96.3 Siddartha High School,Karimnagar, Telangana. 2017-2018 Intermediate Education, MPC CGPA 9.5 Positions of Responsibility Programme Committee Executive, Tathva, NIT Calicut July 2022 Oct 2022 Acted as the point of contact and led the planning and design of 2 technical events, engaging over 250 participants from across India. Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_sw.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Python",
+        "Java",
+        "Javascript",
+        "Sql",
+        "Go"
+      ],
+      "tfidf_score": 0.47661356865616006,
+      "bert_score": 0.32036614418029785,
+      "skill_score": 0.0,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.23705729943290757,
+      "classification": "Irrelevant"
+    }
+  ],
+  "ranking_report": {
+    "total_resumes": 2,
+    "top_candidates": [
+      {
+        "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmphmxvoa_p\\SaiCharan_Analyst.pdf",
+        "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects PIZZA HUT Analyzed Pizza Hut database using MySQL -Utilized MySQL to analyze the Pizza Hut database, determining total orders, revenue, highest-priced pizza, most common size, and the top 5 most ordered pizza types -Conducted advanced data analysis using MySQL to evaluate revenue contributions by pizza type, optimizing pricing strategies AMAZON SALES ANALYSIS USING POWER BI Prepared a comprehensive project that focused on analysing and visualising sales data of a sales company -Developed an advanced Amazon Sales Analytics dashboard using Power BI, enabling real-time insights into sales performance, profit margins and regional sales distribution -Utilized interactive visualizations, including treemaps, line charts, and KPIs, to present key sales metrics, driving strategic decision-making and optimizing sales strategies YOUTUBE LINK TO PDF GENERATOR Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Technical Skills and Interests Skills DBMS, Machine Learning, MS Excel, Power BI, Data Structures and Algorithms Languages C, Python, SQL Frameworks Pandas, Numpy, Matplotlib, Scikit-Learn Course Work OOPS, Database Management Systems, Operating System, Linear Algebra, Statistics Areas of Interest Data Analytics, Event Management, Digital Product Management, Marketing, Strategic Thinking, Data Visualization, Product Development. Soft Skills Fluent Communication, Presentation Skills, Leadership, Teamwork, Collaboration, Analytical Skills, Detail-Oriented, Adaptability, Problem-Solving, Data Insights Positions of Responsibility Programme Committee Executive, Tathva22 Public Relations Committee Head, Ragam23 Pro Show Head, Ragam25 Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+        "name": "SaiCharan_Analyst.pdf",
+        "email": [
+          "envelpejogamsaicharan22@gmail.com"
+        ],
+        "phone": [
+          "9441474743"
+        ],
+        "years_experience": 0,
+        "education": [],
+        "skills": [
+          "Linear Algebra",
+          "Fluent Communication",
+          "MS Excel",
+          "Strategic Thinking",
+          "Python",
+          "Marketing",
+          "SQL",
+          "Leadership",
+          "Event Management",
+          "Scikit-Learn",
+          "Data Analytics",
+          "and Interests Skills DBMS",
+          "Teamwork",
+          "Adaptability",
+          "Statistics",
+          "Data Structures and Algorithms",
+          "Pandas",
+          "OOPS",
+          "Data Visualization",
+          "Presentation Skills",
+          "Machine Learning",
+          "Digital Product Management",
+          "Numpy",
+          "Detail-Oriented",
+          "Analytical Skills",
+          "Collaboration",
+          "Matplotlib",
+          "Problem-Solving",
+          "Operating System",
+          "Data Insights",
+          "Database Management Systems",
+          "Power BI",
+          "Product Development"
+        ],
+        "experience": [],
+        "certifications": [],
+        "languages": [
+          "Python",
+          "Sql",
+          "Go"
+        ],
+        "tfidf_score": 0.8770555109149993,
+        "bert_score": 0.40491729974746704,
+        "skill_score": 0.18120805369127518,
+        "experience_score": 0.2,
+        "certification_score": 0.0,
+        "overall_score": 0.419402126646812,
+        "classification": "Low Relevance"
+      },
+      {
+        "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmphmxvoa_p\\SaiCharan_sw.pdf",
+        "raw_text": "JOGAM SAI CHARAN 91-9441474743 envelpejogamsaicharan22@gmail.com linkedinLinkedIn githubGitHub Summary Engineering graduate with strong programming skills in C and JavaScript. Experienced in developing and deploying full stack web applications, with a focus on scalable backend services, and seamless API integration. Eager to contribute to real world software development in a collaborative, agile environment while continuously learning and growing. Projects Chatrix MongoDB, React.js, Express.js, Node.js Developed a real-time messaging app using the MERN stack and Socket.io, reducing text and image delivery latency to 300ms. Built a responsive UI with DaisyUI and managed dynamic state using Zustand, improving UX and reducing load time by 40. Utilized Cloudinary for image uploads and MongoDB for storing user data and chat history efficiently. Toxic Comment Detector Spring Boot, Java, REST API, Maven Developed a backend microservice using Spring Boot that analyzes and scores user comments for toxicity in real time. Integrated a Python based machine learning model for natural language processing to return toxicity scores with 95 accuracy. Exposed RESTful API endpoints with input validation, secure CORS configuration, and modular service layers for scalability. Achieved an average response latency of 300ms under concurrent request loads using optimized request handling and model inference. Technical Skills Skills Data Structures & Algorithms, Full-Stack Development, Object-Oriented Programming, Node.js, RESTful APIs, Microservices, Problem Solving. Languages C, Golang, Java, JavaScript, SQL. Frameworks & Libraries Spring Boot, Express.js, React.js. Technologies Linux, Docker, Kubernetes, MySQL, MongoDB. Developer Tools Git, GitHub, VS Code, Postman. CS Fundamentals RDBMS, Operating Systems, Computer Networks. Education National Institute of Technology Calicut, Kozhikode, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC Percentage 96.3 Siddartha High School,Karimnagar, Telangana. 2017-2018 Intermediate Education, MPC CGPA 9.5 Positions of Responsibility Programme Committee Executive, Tathva, NIT Calicut July 2022 Oct 2022 Acted as the point of contact and led the planning and design of 2 technical events, engaging over 250 participants from across India. Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+        "name": "SaiCharan_sw.pdf",
+        "email": [
+          "envelpejogamsaicharan22@gmail.com"
+        ],
+        "phone": [
+          "9441474743"
+        ],
+        "years_experience": 0,
+        "education": [],
+        "skills": [],
+        "experience": [],
+        "certifications": [],
+        "languages": [
+          "Python",
+          "Java",
+          "Javascript",
+          "Sql",
+          "Go"
+        ],
+        "tfidf_score": 0.47661356865616006,
+        "bert_score": 0.32036614418029785,
+        "skill_score": 0.0,
+        "experience_score": 0.2,
+        "certification_score": 0.0,
+        "overall_score": 0.23705729943290757,
+        "classification": "Irrelevant"
+      }
+    ],
+    "score_statistics": {
+      "mean_score": 0.32822971303985976,
+      "median_score": 0.32822971303985976,
+      "std_score": 0.0911724136069522,
+      "min_score": 0.23705729943290757,
+      "max_score": 0.419402126646812
+    },
+    "classification_distribution": {
+      "Low Relevance": 1,
+      "Irrelevant": 1
+    },
+    "skill_distribution": {
+      "linear algebra": 1,
+      "fluent communication": 1,
+      "ms excel": 1,
+      "strategic thinking": 1,
+      "python": 1,
+      "marketing": 1,
+      "sql": 1,
+      "leadership": 1,
+      "event management": 1,
+      "scikit-learn": 1,
+      "data analytics": 1,
+      "and interests skills dbms": 1,
+      "teamwork": 1,
+      "adaptability": 1,
+      "statistics": 1,
+      "data structures and algorithms": 1,
+      "pandas": 1,
+      "oops": 1,
+      "data visualization": 1,
+      "presentation skills": 1,
+      "machine learning": 1,
+      "digital product management": 1,
+      "numpy": 1,
+      "detail-oriented": 1,
+      "analytical skills": 1,
+      "collaboration": 1,
+      "matplotlib": 1,
+      "problem-solving": 1,
+      "operating system": 1,
+      "data insights": 1,
+      "database management systems": 1,
+      "power bi": 1,
+      "product development": 1
+    },
+    "experience_distribution": {
+      "Less than 1 year": 2
+    },
+    "certification_distribution": {}
+  },
+  "duplicate_analysis": {
+    "total_resumes": 2,
+    "total_duplicate_groups": 0,
+    "total_duplicate_resumes": 0,
+    "duplicate_percentage": 0.0,
+    "average_similarity_in_duplicates": 0,
+    "duplicate_groups": []
+  },
+  "all_ranked_resumes": [
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmphmxvoa_p\\SaiCharan_Analyst.pdf",
+      "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects PIZZA HUT Analyzed Pizza Hut database using MySQL -Utilized MySQL to analyze the Pizza Hut database, determining total orders, revenue, highest-priced pizza, most common size, and the top 5 most ordered pizza types -Conducted advanced data analysis using MySQL to evaluate revenue contributions by pizza type, optimizing pricing strategies AMAZON SALES ANALYSIS USING POWER BI Prepared a comprehensive project that focused on analysing and visualising sales data of a sales company -Developed an advanced Amazon Sales Analytics dashboard using Power BI, enabling real-time insights into sales performance, profit margins and regional sales distribution -Utilized interactive visualizations, including treemaps, line charts, and KPIs, to present key sales metrics, driving strategic decision-making and optimizing sales strategies YOUTUBE LINK TO PDF GENERATOR Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Technical Skills and Interests Skills DBMS, Machine Learning, MS Excel, Power BI, Data Structures and Algorithms Languages C, Python, SQL Frameworks Pandas, Numpy, Matplotlib, Scikit-Learn Course Work OOPS, Database Management Systems, Operating System, Linear Algebra, Statistics Areas of Interest Data Analytics, Event Management, Digital Product Management, Marketing, Strategic Thinking, Data Visualization, Product Development. Soft Skills Fluent Communication, Presentation Skills, Leadership, Teamwork, Collaboration, Analytical Skills, Detail-Oriented, Adaptability, Problem-Solving, Data Insights Positions of Responsibility Programme Committee Executive, Tathva22 Public Relations Committee Head, Ragam23 Pro Show Head, Ragam25 Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_Analyst.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [
+        "Linear Algebra",
+        "Fluent Communication",
+        "MS Excel",
+        "Strategic Thinking",
+        "Python",
+        "Marketing",
+        "SQL",
+        "Leadership",
+        "Event Management",
+        "Scikit-Learn",
+        "Data Analytics",
+        "and Interests Skills DBMS",
+        "Teamwork",
+        "Adaptability",
+        "Statistics",
+        "Data Structures and Algorithms",
+        "Pandas",
+        "OOPS",
+        "Data Visualization",
+        "Presentation Skills",
+        "Machine Learning",
+        "Digital Product Management",
+        "Numpy",
+        "Detail-Oriented",
+        "Analytical Skills",
+        "Collaboration",
+        "Matplotlib",
+        "Problem-Solving",
+        "Operating System",
+        "Data Insights",
+        "Database Management Systems",
+        "Power BI",
+        "Product Development"
+      ],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Python",
+        "Sql",
+        "Go"
+      ],
+      "tfidf_score": 0.8770555109149993,
+      "bert_score": 0.40491729974746704,
+      "skill_score": 0.9696969696969697,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.6165243556482356,
+      "classification": "Low Relevance"
+    },
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmphmxvoa_p\\SaiCharan_sw.pdf",
+      "raw_text": "JOGAM SAI CHARAN 91-9441474743 envelpejogamsaicharan22@gmail.com linkedinLinkedIn githubGitHub Summary Engineering graduate with strong programming skills in C and JavaScript. Experienced in developing and deploying full stack web applications, with a focus on scalable backend services, and seamless API integration. Eager to contribute to real world software development in a collaborative, agile environment while continuously learning and growing. Projects Chatrix MongoDB, React.js, Express.js, Node.js Developed a real-time messaging app using the MERN stack and Socket.io, reducing text and image delivery latency to 300ms. Built a responsive UI with DaisyUI and managed dynamic state using Zustand, improving UX and reducing load time by 40. Utilized Cloudinary for image uploads and MongoDB for storing user data and chat history efficiently. Toxic Comment Detector Spring Boot, Java, REST API, Maven Developed a backend microservice using Spring Boot that analyzes and scores user comments for toxicity in real time. Integrated a Python based machine learning model for natural language processing to return toxicity scores with 95 accuracy. Exposed RESTful API endpoints with input validation, secure CORS configuration, and modular service layers for scalability. Achieved an average response latency of 300ms under concurrent request loads using optimized request handling and model inference. Technical Skills Skills Data Structures & Algorithms, Full-Stack Development, Object-Oriented Programming, Node.js, RESTful APIs, Microservices, Problem Solving. Languages C, Golang, Java, JavaScript, SQL. Frameworks & Libraries Spring Boot, Express.js, React.js. Technologies Linux, Docker, Kubernetes, MySQL, MongoDB. Developer Tools Git, GitHub, VS Code, Postman. CS Fundamentals RDBMS, Operating Systems, Computer Networks. Education National Institute of Technology Calicut, Kozhikode, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC Percentage 96.3 Siddartha High School,Karimnagar, Telangana. 2017-2018 Intermediate Education, MPC CGPA 9.5 Positions of Responsibility Programme Committee Executive, Tathva, NIT Calicut July 2022 Oct 2022 Acted as the point of contact and led the planning and design of 2 technical events, engaging over 250 participants from across India. Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_sw.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Python",
+        "Java",
+        "Javascript",
+        "Sql",
+        "Go"
+      ],
+      "tfidf_score": 0.47661356865616006,
+      "bert_score": 0.32036614418029785,
+      "skill_score": 0.0,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.23705729943290757,
+      "classification": "Irrelevant"
+    }
+  ],
+  "required_skills": [
+    "DBMS",
+    "Machine Learning",
+    "MS Excel",
+    "Power BI",
+    "Data Structures and Algorithms",
+    "C++",
+    "Python",
+    "SQL",
+    "Pandas",
+    "Numpy",
+    "Matplotlib",
+    "Scikit-Learn",
+    "OOPS",
+    "Database Management Systems",
+    "Operating System",
+    "Linear Algebra",
+    "Statistics",
+    "Data Analytics",
+    "Event Management",
+    "Digital Product Management",
+    "Marketing, Strategic Thinking",
+    "Data Visualization",
+    "Product Development",
+    "Fluent Communication",
+    "Presentation Skills",
+    "Leadership",
+    "Teamwork",
+    "Collaboration",
+    "Analytical Skills",
+    "Detail-Oriented",
+    "Adaptability",
+    "Problem-Solving",
+    "Data Insights"
+  ],
+  "job_description": "Salesforce Engineer with experience in DBMS\n Machine Learning \n MS Excel\n Power BI\n Data Structures and Algorithms\n C++\n Python\n SQL\n Pandas\n Numpy\n Matplotlib\n Scikit-Learn\n OOPS\n Database Management Systems\n Operating System\n Linear Algebra\n Statistics\n Data Analytics\n Event Management\n Digital Product Management\n Marketing, Strategic Thinking\n Data Visualization\n Product Development\n Fluent Communication\n Presentation Skills\n Leadership\n Teamwork\n Collaboration\n Analytical Skills\n Detail-Oriented\n Adaptability\n Problem-Solving\n Data Insights\n"
+}

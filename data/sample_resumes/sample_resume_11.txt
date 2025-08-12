@@ -1,0 +1,19 @@
+Victoria Davis
+v | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 1 years of experience in software development and technology solutions.
+
+SKILLS
+Ruby, Teams, Azure, Php, Html, Visualforce, Vue, Integration, Go, Spring, Dx, Node.Js, Agile, Python, Api, Javascript, Git, Service Cloud, Docker, Rest, Marketing Cloud, C++, Powerpoint, Salesforce, Kubernetes, Lightning, Heroku, Aws, Apex, Css, Scrum, Sql, Soql
+
+EXPERIENCE
+Lightning Developer at Deloitte - 1 years
+Worked on lightning developer projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer I, Administrator, Service Cloud Consultant

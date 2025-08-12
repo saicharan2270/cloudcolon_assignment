@@ -1,0 +1,22 @@
+Joyce Hill
+j | + | Seattle, WA
+
+SUMMARY
+Experienced professional with 5 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Testing, Illustrator, Ruby, Outlook, Teams, Excel, Cpq, Visualforce, Wordpress, Word, Vue, Integration, Spring, Angular, Agile, Api, Javascript, Git, Service Cloud, Sosl, Rest, C++, Salesforce, Kubernetes, Lightning, Express, Apex, Scrum, Sql, Soap
+
+EXPERIENCE
+Salesforce Consultant at KPMG - 2 years
+Worked on salesforce consultant projects
+
+DevOps Engineer at PwC - 1 years
+Worked on devops engineer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+Platform Developer II, Sales Cloud Consultant

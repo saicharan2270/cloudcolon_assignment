@@ -1,0 +1,22 @@
+Nicole Lopez
+n | + | Austin, TX
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Testing, Teams, Cpq, Visualforce, Word, Vue, Integration, Angular, Agile, Python, Api, Java, Git, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, C++, Salesforce, Rust, Kubernetes, Lightning, Heroku, Express, Aws, Apex, Scrum, Soql, Soap
+
+EXPERIENCE
+Frontend Developer at Adobe - 1 years
+Worked on frontend developer projects
+
+Salesforce Developer at KPMG - 3 years
+Worked on salesforce developer projects
+
+
+EDUCATION
+Master of Business Administration
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Sales Cloud Consultant

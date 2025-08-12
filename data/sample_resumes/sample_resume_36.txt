@@ -1,0 +1,25 @@
+Stephanie Baker
+s | + | New York, NY
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Testing, Illustrator, Outlook, Kotlin, Teams, Azure, Trello, Excel, Php, Html, Visualforce, Wordpress, Word, Go, Dx, Asana, Javascript, Rest, C++, Powerpoint, Rust, Apex, Soql
+
+EXPERIENCE
+Salesforce Engineer at Adobe - 2 years
+Worked on salesforce engineer projects
+
+Software Engineer at HubSpot - 2 years
+Worked on software engineer projects
+
+Software Engineer at PwC - 1 years
+Worked on software engineer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+Service Cloud Consultant, Marketing Cloud Consultant

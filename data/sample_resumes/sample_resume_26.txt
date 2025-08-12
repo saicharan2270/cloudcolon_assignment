@@ -1,0 +1,19 @@
+Brian Moore
+b | + | Austin, TX
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, C#, Ruby, Teams, Azure, Trello, Excel, Cpq, Wordpress, Word, Integration, Go, Node.Js, Api, Asana, Java, Marketing Cloud, C++, Powerpoint, Django, Rust, Lightning, Express, Soap
+
+EXPERIENCE
+Salesforce Developer at PwC - 1 years
+Worked on salesforce developer projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+None

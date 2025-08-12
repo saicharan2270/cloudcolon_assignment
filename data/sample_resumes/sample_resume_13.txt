@@ -1,0 +1,25 @@
+Carol Wright
+c | + | New York, NY
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Testing, Illustrator, Ruby, Trello, Html, Cpq, Visualforce, Swift, Integration, Go, Spring, Dx, Agile, Python, Api, Javascript, Java, React, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, C++, Django, Salesforce, Kubernetes, Lightning, Apex, Css, Scrum, Sql, Soql, Soap
+
+EXPERIENCE
+Lightning Developer at TCS - 2 years
+Worked on lightning developer projects
+
+System Administrator at Infosys - 2 years
+Worked on system administrator projects
+
+Salesforce Consultant at Microsoft - 2 years
+Worked on salesforce consultant projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Platform Developer I, Service Cloud Consultant

@@ -1,0 +1,19 @@
+Brian Gomez
+b | + | Austin, TX
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Slack, Testing, C#, Illustrator, Kotlin, Excel, Php, Cpq, Wordpress, Swift, Word, Integration, Spring, Angular, Agile, Asana, React, Git, Sosl, Marketing Cloud, C++, Django, Rust, Scrum, Soql, Jira
+
+EXPERIENCE
+Salesforce Engineer at IBM - 2 years
+Worked on salesforce engineer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+None

@@ -1,0 +1,25 @@
+Ruth Martinez
+r | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Illustrator, Outlook, Kotlin, Teams, Trello, Excel, Php, Html, Wordpress, Swift, Integration, Go, Spring, Node.Js, Agile, Api, Java, Docker, C++, Django, Powerpoint, Rust, Lightning, Heroku, Express, Aws, Sql, Soql, Jira
+
+EXPERIENCE
+Salesforce Engineer at Workday - 2 years
+Worked on salesforce engineer projects
+
+Software Engineer at Workday - 1 years
+Worked on software engineer projects
+
+Apex Developer at Accenture - 1 years
+Worked on apex developer projects
+
+
+EDUCATION
+Associate Degree in Programming
+
+CERTIFICATIONS
+None

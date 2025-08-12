@@ -1,0 +1,19 @@
+Laura King
+l | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Testing, Kotlin, Azure, Trello, Cpq, Integration, Dx, Agile, Python, Api, Javascript, Git, Service Cloud, Sosl, Rest, Marketing Cloud, Powerpoint, Salesforce, Kubernetes, Lightning, Heroku, Express, Aws, Apex, Scrum, Sql, Soql, Soap
+
+EXPERIENCE
+Backend Developer at Infosys - 2 years
+Worked on backend developer projects
+
+
+EDUCATION
+Bachelor of Arts in Computer Science
+
+CERTIFICATIONS
+Platform Developer II, Administrator, Sales Cloud Consultant, Service Cloud Consultant, Marketing Cloud Consultant

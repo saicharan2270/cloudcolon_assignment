@@ -1,0 +1,25 @@
+James Martin
+j | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Slack, Testing, C#, Ruby, Outlook, Kotlin, Teams, Azure, Excel, Cpq, Wordpress, Swift, Go, Dx, Node.Js, Asana, Java, React, Git, Rest, Django, Powerpoint, Rust, Heroku, Scrum, Jira
+
+EXPERIENCE
+Programmer at EY - 2 years
+Worked on programmer projects
+
+Programmer at Cognizant - 1 years
+Worked on programmer projects
+
+DevOps Engineer at ServiceNow - 1 years
+Worked on devops engineer projects
+
+
+EDUCATION
+Master of Business Administration
+
+CERTIFICATIONS
+Sales Cloud Consultant

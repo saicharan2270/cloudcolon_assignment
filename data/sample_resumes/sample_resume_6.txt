@@ -1,0 +1,25 @@
+Mark Baker
+m | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 8 years of experience in software development and technology solutions.
+
+SKILLS
+Illustrator, Outlook, Azure, Html, Cpq, Wordpress, Vue, Integration, Dx, Angular, Api, Java, Service Cloud, Sosl, Rest, Marketing Cloud, C++, Salesforce, Kubernetes, Lightning, Heroku, Express, Apex, Scrum, Soql
+
+EXPERIENCE
+Frontend Developer at PwC - 3 years
+Worked on frontend developer projects
+
+Full Stack Developer at EY - 3 years
+Worked on full stack developer projects
+
+Salesforce Consultant at ServiceNow - 3 years
+Worked on salesforce consultant projects
+
+
+EDUCATION
+Master of Business Administration
+
+CERTIFICATIONS
+Platform Developer I, Sales Cloud Consultant, Marketing Cloud Consultant

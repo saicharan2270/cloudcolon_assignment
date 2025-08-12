@@ -1,0 +1,19 @@
+Emily Scott
+e | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 4 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Testing, Illustrator, Outlook, Kotlin, Teams, Azure, Html, Cpq, Visualforce, Integration, Go, Spring, Dx, Angular, Agile, Python, Api, Javascript, Java, React, Git, Service Cloud, Docker, Rest, Marketing Cloud, C++, Django, Salesforce, Lightning, Heroku, Express, Apex, Css, Scrum, Soql, Soap
+
+EXPERIENCE
+DevOps Engineer at Microsoft - 1 years
+Worked on devops engineer projects
+
+
+EDUCATION
+Bachelor of Arts in Computer Science
+
+CERTIFICATIONS
+Sales Cloud Consultant, Service Cloud Consultant, CPQ Specialist, Marketing Cloud Consultant

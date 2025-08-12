@@ -1,0 +1,19 @@
+Ruth Sanchez
+r | + | New York, NY
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Slack, C#, Illustrator, Kotlin, Azure, Wordpress, Swift, Word, Vue, Spring, Go, React, Git, Marketing Cloud, C++, Salesforce, Heroku, Express, Css, Apex, Sql, Soap
+
+EXPERIENCE
+Salesforce Consultant at Amazon - 2 years
+Worked on salesforce consultant projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Marketing Cloud Consultant

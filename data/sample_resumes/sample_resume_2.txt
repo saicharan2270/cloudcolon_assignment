@@ -1,0 +1,22 @@
+Amanda Flores
+a | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Azure, Jira, Php, Html, Cpq, Visualforce, Vue, Integration, Dx, Node.Js, Python, Api, Javascript, Java, React, Git, Service Cloud, Sosl, Rest, Marketing Cloud, C++, Salesforce, Kubernetes, Lightning, Heroku, Apex, Css, Soql, Soap
+
+EXPERIENCE
+Salesforce Developer at Workday - 2 years
+Worked on salesforce developer projects
+
+Software Engineer at Infosys - 2 years
+Worked on software engineer projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Service Cloud Consultant, CPQ Specialist, Integration Architecture Designer

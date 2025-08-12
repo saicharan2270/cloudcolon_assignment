@@ -1,0 +1,401 @@
+{
+  "processing_summary": {
+    "total_resumes_processed": 2,
+    "unique_resumes": 2,
+    "duplicate_groups_found": 0,
+    "duplicate_percentage": 0.0
+  },
+  "top_candidates": [
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmp95xmbv39\\SaiCharan_Salesforce.pdf",
+      "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects Image Captioning Model Github -Developed an Image Captioning Model integrating VGG-16 (CNN) for feature extraction and LSTM for sequence generation to generate accurate textual descriptions for images. -Preprocessed images and captions, tokenized text data, and trained the model -Improved caption generation using sequence padding and beam search decoding, making captions more accurate and relevant for applications like image search and assistive AI tools. YouTube Link to PDF Generator Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Excel Chat Assistant Github -Developed a web app to query Excel files in natural language using an LLM-powered chatbot (Mistral 7B). -Integrated a code generation and execution engine to return answers as text, charts, or tables. Technical Skills and Interests Salesforce CRM fundamentals, Declarative automation (Flows, Process Builder, Validation Rules) Apex programming, SOQL & SOSL, Lightning Web Components (LWC) Salesforce security model, API integration (RESTSOAP) Data management & Data Loader, Object-oriented programming Version control (Git), Unit testing & code coverage CICD for Salesforce, Problem-solving & communication skills Positions of Responsibility Programme Committee Executive, Tathva22 Member of Treasure Hunt and CSI Section Improved skills in brainstorming, event organizing, management and team work. Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_Salesforce.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [
+        "Validation Rules) Apex programming",
+        "Declarative automation (Flows",
+        "Process Builder",
+        "Lightning Web Components  Salesforce security model",
+        "and Interests Salesforce CRM fundamentals",
+        "Object-oriented programming Version control",
+        "API integration  Data management & Data Loader",
+        "Problem-solving & communication skills",
+        "SOQL & SOSL",
+        "Unit testing & code coverage CICD for Salesforce"
+      ],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Apex",
+        "Go"
+      ],
+      "tfidf_score": 0.8741968791332073,
+      "bert_score": 0.23050449788570404,
+      "skill_score": 0.6923076923076923,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.5114368863940261,
+      "classification": "Low Relevance"
+    },
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmp95xmbv39\\SaiCharan_Analyst.pdf",
+      "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects PIZZA HUT Analyzed Pizza Hut database using MySQL -Utilized MySQL to analyze the Pizza Hut database, determining total orders, revenue, highest-priced pizza, most common size, and the top 5 most ordered pizza types -Conducted advanced data analysis using MySQL to evaluate revenue contributions by pizza type, optimizing pricing strategies AMAZON SALES ANALYSIS USING POWER BI Prepared a comprehensive project that focused on analysing and visualising sales data of a sales company -Developed an advanced Amazon Sales Analytics dashboard using Power BI, enabling real-time insights into sales performance, profit margins and regional sales distribution -Utilized interactive visualizations, including treemaps, line charts, and KPIs, to present key sales metrics, driving strategic decision-making and optimizing sales strategies YOUTUBE LINK TO PDF GENERATOR Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Technical Skills and Interests Skills DBMS, Machine Learning, MS Excel, Power BI, Data Structures and Algorithms Languages C, Python, SQL Frameworks Pandas, Numpy, Matplotlib, Scikit-Learn Course Work OOPS, Database Management Systems, Operating System, Linear Algebra, Statistics Areas of Interest Data Analytics, Event Management, Digital Product Management, Marketing, Strategic Thinking, Data Visualization, Product Development. Soft Skills Fluent Communication, Presentation Skills, Leadership, Teamwork, Collaboration, Analytical Skills, Detail-Oriented, Adaptability, Problem-Solving, Data Insights Positions of Responsibility Programme Committee Executive, Tathva22 Public Relations Committee Head, Ragam23 Pro Show Head, Ragam25 Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_Analyst.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [
+        "Presentation Skills",
+        "Adaptability",
+        "Collaboration",
+        "Data Visualization",
+        "SQL",
+        "Linear Algebra",
+        "Problem-Solving",
+        "Python",
+        "Data Analytics",
+        "Operating System",
+        "Strategic Thinking",
+        "Data Insights",
+        "Machine Learning",
+        "Leadership",
+        "Digital Product Management",
+        "Detail-Oriented",
+        "Pandas",
+        "MS Excel",
+        "Analytical Skills",
+        "Scikit-Learn",
+        "Marketing",
+        "Product Development",
+        "OOPS",
+        "Power BI",
+        "and Interests Skills DBMS",
+        "Numpy",
+        "Fluent Communication",
+        "Database Management Systems",
+        "Event Management",
+        "Data Structures and Algorithms",
+        "Teamwork",
+        "Matplotlib",
+        "Statistics"
+      ],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Python",
+        "Sql",
+        "Go"
+      ],
+      "tfidf_score": 0.30107364273838494,
+      "bert_score": 0.2814421057701111,
+      "skill_score": 0.07692307692307693,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.19584128320630692,
+      "classification": "Irrelevant"
+    }
+  ],
+  "ranking_report": {
+    "total_resumes": 2,
+    "top_candidates": [
+      {
+        "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmp95xmbv39\\SaiCharan_Salesforce.pdf",
+        "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects Image Captioning Model Github -Developed an Image Captioning Model integrating VGG-16 (CNN) for feature extraction and LSTM for sequence generation to generate accurate textual descriptions for images. -Preprocessed images and captions, tokenized text data, and trained the model -Improved caption generation using sequence padding and beam search decoding, making captions more accurate and relevant for applications like image search and assistive AI tools. YouTube Link to PDF Generator Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Excel Chat Assistant Github -Developed a web app to query Excel files in natural language using an LLM-powered chatbot (Mistral 7B). -Integrated a code generation and execution engine to return answers as text, charts, or tables. Technical Skills and Interests Salesforce CRM fundamentals, Declarative automation (Flows, Process Builder, Validation Rules) Apex programming, SOQL & SOSL, Lightning Web Components (LWC) Salesforce security model, API integration (RESTSOAP) Data management & Data Loader, Object-oriented programming Version control (Git), Unit testing & code coverage CICD for Salesforce, Problem-solving & communication skills Positions of Responsibility Programme Committee Executive, Tathva22 Member of Treasure Hunt and CSI Section Improved skills in brainstorming, event organizing, management and team work. Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+        "name": "SaiCharan_Salesforce.pdf",
+        "email": [
+          "envelpejogamsaicharan22@gmail.com"
+        ],
+        "phone": [
+          "9441474743"
+        ],
+        "years_experience": 0,
+        "education": [],
+        "skills": [
+          "Validation Rules) Apex programming",
+          "Declarative automation (Flows",
+          "Process Builder",
+          "Lightning Web Components  Salesforce security model",
+          "and Interests Salesforce CRM fundamentals",
+          "Object-oriented programming Version control",
+          "API integration  Data management & Data Loader",
+          "Problem-solving & communication skills",
+          "SOQL & SOSL",
+          "Unit testing & code coverage CICD for Salesforce"
+        ],
+        "experience": [],
+        "certifications": [],
+        "languages": [
+          "Apex",
+          "Go"
+        ],
+        "tfidf_score": 0.8741968791332073,
+        "bert_score": 0.23050449788570404,
+        "skill_score": 0.28187919463087246,
+        "experience_score": 0.2,
+        "certification_score": 0.0,
+        "overall_score": 0.4088297619748211,
+        "classification": "Low Relevance"
+      },
+      {
+        "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmp95xmbv39\\SaiCharan_Analyst.pdf",
+        "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects PIZZA HUT Analyzed Pizza Hut database using MySQL -Utilized MySQL to analyze the Pizza Hut database, determining total orders, revenue, highest-priced pizza, most common size, and the top 5 most ordered pizza types -Conducted advanced data analysis using MySQL to evaluate revenue contributions by pizza type, optimizing pricing strategies AMAZON SALES ANALYSIS USING POWER BI Prepared a comprehensive project that focused on analysing and visualising sales data of a sales company -Developed an advanced Amazon Sales Analytics dashboard using Power BI, enabling real-time insights into sales performance, profit margins and regional sales distribution -Utilized interactive visualizations, including treemaps, line charts, and KPIs, to present key sales metrics, driving strategic decision-making and optimizing sales strategies YOUTUBE LINK TO PDF GENERATOR Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Technical Skills and Interests Skills DBMS, Machine Learning, MS Excel, Power BI, Data Structures and Algorithms Languages C, Python, SQL Frameworks Pandas, Numpy, Matplotlib, Scikit-Learn Course Work OOPS, Database Management Systems, Operating System, Linear Algebra, Statistics Areas of Interest Data Analytics, Event Management, Digital Product Management, Marketing, Strategic Thinking, Data Visualization, Product Development. Soft Skills Fluent Communication, Presentation Skills, Leadership, Teamwork, Collaboration, Analytical Skills, Detail-Oriented, Adaptability, Problem-Solving, Data Insights Positions of Responsibility Programme Committee Executive, Tathva22 Public Relations Committee Head, Ragam23 Pro Show Head, Ragam25 Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+        "name": "SaiCharan_Analyst.pdf",
+        "email": [
+          "envelpejogamsaicharan22@gmail.com"
+        ],
+        "phone": [
+          "9441474743"
+        ],
+        "years_experience": 0,
+        "education": [],
+        "skills": [
+          "Presentation Skills",
+          "Adaptability",
+          "Collaboration",
+          "Data Visualization",
+          "SQL",
+          "Linear Algebra",
+          "Problem-Solving",
+          "Python",
+          "Data Analytics",
+          "Operating System",
+          "Strategic Thinking",
+          "Data Insights",
+          "Machine Learning",
+          "Leadership",
+          "Digital Product Management",
+          "Detail-Oriented",
+          "Pandas",
+          "MS Excel",
+          "Analytical Skills",
+          "Scikit-Learn",
+          "Marketing",
+          "Product Development",
+          "OOPS",
+          "Power BI",
+          "and Interests Skills DBMS",
+          "Numpy",
+          "Fluent Communication",
+          "Database Management Systems",
+          "Event Management",
+          "Data Structures and Algorithms",
+          "Teamwork",
+          "Matplotlib",
+          "Statistics"
+        ],
+        "experience": [],
+        "certifications": [],
+        "languages": [
+          "Python",
+          "Sql",
+          "Go"
+        ],
+        "tfidf_score": 0.30107364273838494,
+        "bert_score": 0.2814421057701111,
+        "skill_score": 0.18120805369127516,
+        "experience_score": 0.2,
+        "certification_score": 0.0,
+        "overall_score": 0.22191252739835648,
+        "classification": "Irrelevant"
+      }
+    ],
+    "score_statistics": {
+      "mean_score": 0.3153711446865888,
+      "median_score": 0.3153711446865888,
+      "std_score": 0.09345861728823232,
+      "min_score": 0.22191252739835648,
+      "max_score": 0.4088297619748211
+    },
+    "classification_distribution": {
+      "Low Relevance": 1,
+      "Irrelevant": 1
+    },
+    "skill_distribution": {
+      "validation rules) apex programming": 1,
+      "declarative automation (flows": 1,
+      "process builder": 1,
+      "lightning web components  salesforce security model": 1,
+      "and interests salesforce crm fundamentals": 1,
+      "object-oriented programming version control": 1,
+      "api integration  data management & data loader": 1,
+      "problem-solving & communication skills": 1,
+      "soql & sosl": 1,
+      "unit testing & code coverage cicd for salesforce": 1,
+      "presentation skills": 1,
+      "adaptability": 1,
+      "collaboration": 1,
+      "data visualization": 1,
+      "sql": 1,
+      "linear algebra": 1,
+      "problem-solving": 1,
+      "python": 1,
+      "data analytics": 1,
+      "operating system": 1,
+      "strategic thinking": 1,
+      "data insights": 1,
+      "machine learning": 1,
+      "leadership": 1,
+      "digital product management": 1,
+      "detail-oriented": 1,
+      "pandas": 1,
+      "ms excel": 1,
+      "analytical skills": 1,
+      "scikit-learn": 1,
+      "marketing": 1,
+      "product development": 1,
+      "oops": 1,
+      "power bi": 1,
+      "and interests skills dbms": 1,
+      "numpy": 1,
+      "fluent communication": 1,
+      "database management systems": 1,
+      "event management": 1,
+      "data structures and algorithms": 1,
+      "teamwork": 1,
+      "matplotlib": 1,
+      "statistics": 1
+    },
+    "experience_distribution": {
+      "Less than 1 year": 2
+    },
+    "certification_distribution": {}
+  },
+  "duplicate_analysis": {
+    "total_resumes": 2,
+    "total_duplicate_groups": 0,
+    "total_duplicate_resumes": 0,
+    "duplicate_percentage": 0.0,
+    "average_similarity_in_duplicates": 0,
+    "duplicate_groups": []
+  },
+  "all_ranked_resumes": [
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmp95xmbv39\\SaiCharan_Salesforce.pdf",
+      "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects Image Captioning Model Github -Developed an Image Captioning Model integrating VGG-16 (CNN) for feature extraction and LSTM for sequence generation to generate accurate textual descriptions for images. -Preprocessed images and captions, tokenized text data, and trained the model -Improved caption generation using sequence padding and beam search decoding, making captions more accurate and relevant for applications like image search and assistive AI tools. YouTube Link to PDF Generator Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Excel Chat Assistant Github -Developed a web app to query Excel files in natural language using an LLM-powered chatbot (Mistral 7B). -Integrated a code generation and execution engine to return answers as text, charts, or tables. Technical Skills and Interests Salesforce CRM fundamentals, Declarative automation (Flows, Process Builder, Validation Rules) Apex programming, SOQL & SOSL, Lightning Web Components (LWC) Salesforce security model, API integration (RESTSOAP) Data management & Data Loader, Object-oriented programming Version control (Git), Unit testing & code coverage CICD for Salesforce, Problem-solving & communication skills Positions of Responsibility Programme Committee Executive, Tathva22 Member of Treasure Hunt and CSI Section Improved skills in brainstorming, event organizing, management and team work. Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_Salesforce.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [
+        "Validation Rules) Apex programming",
+        "Declarative automation (Flows",
+        "Process Builder",
+        "Lightning Web Components  Salesforce security model",
+        "and Interests Salesforce CRM fundamentals",
+        "Object-oriented programming Version control",
+        "API integration  Data management & Data Loader",
+        "Problem-solving & communication skills",
+        "SOQL & SOSL",
+        "Unit testing & code coverage CICD for Salesforce"
+      ],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Apex",
+        "Go"
+      ],
+      "tfidf_score": 0.8741968791332073,
+      "bert_score": 0.23050449788570404,
+      "skill_score": 0.6923076923076923,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.5114368863940261,
+      "classification": "Low Relevance"
+    },
+    {
+      "file_path": "C:\\Users\\saich\\AppData\\Local\\Temp\\tmp95xmbv39\\SaiCharan_Analyst.pdf",
+      "raw_text": "JOGAM SAI CHARAN Undergraduate Student Bachelor of Technology Electronics and Communication Engineering NIT Calicutphone91-9441474743 envelpejogamsaicharan22@gmail.com githubGitHub Profile linkedinLinkedIn Profile Education National Institute of Technology, Calicut, Kerala. 2021-2025 B.Tech, Electronics and Communication Engineering CGPA 7.26 Sri Chaitanya Junior College, Hyderabad, Telangana. 2018-2020 Intermediate Education, MPC PERCENTAGE 96.3 Siddartha High School, Karimnagar, Telangana. 2017-2018 10th Standard PERCENTAGE 95 Projects PIZZA HUT Analyzed Pizza Hut database using MySQL -Utilized MySQL to analyze the Pizza Hut database, determining total orders, revenue, highest-priced pizza, most common size, and the top 5 most ordered pizza types -Conducted advanced data analysis using MySQL to evaluate revenue contributions by pizza type, optimizing pricing strategies AMAZON SALES ANALYSIS USING POWER BI Prepared a comprehensive project that focused on analysing and visualising sales data of a sales company -Developed an advanced Amazon Sales Analytics dashboard using Power BI, enabling real-time insights into sales performance, profit margins and regional sales distribution -Utilized interactive visualizations, including treemaps, line charts, and KPIs, to present key sales metrics, driving strategic decision-making and optimizing sales strategies YOUTUBE LINK TO PDF GENERATOR Github -Implemented a web application using Flask, to convert YouTube videos into PDF format. The application enables users to input YouTube video links, processes the video content, extracts key frames, and compiles them into a PDF document flexibly -Used Libraries such as OpenCV, PyTube and FPDF for video processing, downloading, and PDF generation functionalities. Technical Skills and Interests Skills DBMS, Machine Learning, MS Excel, Power BI, Data Structures and Algorithms Languages C, Python, SQL Frameworks Pandas, Numpy, Matplotlib, Scikit-Learn Course Work OOPS, Database Management Systems, Operating System, Linear Algebra, Statistics Areas of Interest Data Analytics, Event Management, Digital Product Management, Marketing, Strategic Thinking, Data Visualization, Product Development. Soft Skills Fluent Communication, Presentation Skills, Leadership, Teamwork, Collaboration, Analytical Skills, Detail-Oriented, Adaptability, Problem-Solving, Data Insights Positions of Responsibility Programme Committee Executive, Tathva22 Public Relations Committee Head, Ragam23 Pro Show Head, Ragam25 Achievements Secured a position in the top 2 in JEE Mains, a national-level engineering entrance exam. Solved 700 coding problems across multiple platforms such as LeetCode, CodingNinjas, and GeeksforGeeks, showcasing strong problem-solving skills in Data Structures and Algorithms.",
+      "name": "SaiCharan_Analyst.pdf",
+      "email": [
+        "envelpejogamsaicharan22@gmail.com"
+      ],
+      "phone": [
+        "9441474743"
+      ],
+      "years_experience": 0,
+      "education": [],
+      "skills": [
+        "Presentation Skills",
+        "Adaptability",
+        "Collaboration",
+        "Data Visualization",
+        "SQL",
+        "Linear Algebra",
+        "Problem-Solving",
+        "Python",
+        "Data Analytics",
+        "Operating System",
+        "Strategic Thinking",
+        "Data Insights",
+        "Machine Learning",
+        "Leadership",
+        "Digital Product Management",
+        "Detail-Oriented",
+        "Pandas",
+        "MS Excel",
+        "Analytical Skills",
+        "Scikit-Learn",
+        "Marketing",
+        "Product Development",
+        "OOPS",
+        "Power BI",
+        "and Interests Skills DBMS",
+        "Numpy",
+        "Fluent Communication",
+        "Database Management Systems",
+        "Event Management",
+        "Data Structures and Algorithms",
+        "Teamwork",
+        "Matplotlib",
+        "Statistics"
+      ],
+      "experience": [],
+      "certifications": [],
+      "languages": [
+        "Python",
+        "Sql",
+        "Go"
+      ],
+      "tfidf_score": 0.30107364273838494,
+      "bert_score": 0.2814421057701111,
+      "skill_score": 0.07692307692307693,
+      "experience_score": 0.2,
+      "certification_score": 0.0,
+      "overall_score": 0.19584128320630692,
+      "classification": "Irrelevant"
+    }
+  ],
+  "required_skills": [
+    "Salesforce CRM fundamentals",
+    "Declarative automation (Flows, Process Builder, Validation Rules)",
+    "Apex programming",
+    "SOQL & SOSL",
+    "Lightning Web Components (LWC)",
+    "Salesforce security model",
+    "API integration (REST/SOAP)",
+    "Data management & Data Loader",
+    "Object-oriented programming",
+    "Version control (Git)",
+    "Unit testing & code coverage",
+    "CI/CD for Salesforce",
+    "Problem-solving & communication skills"
+  ],
+  "job_description": "Salesforce Engineer with experience in Salesforce CRM fundamentals\nDeclarative automation (Flows, Process Builder, Validation Rules)\nApex programming\nSOQL & SOSL\nLightning Web Components (LWC)\nSalesforce security model\nAPI integration (REST/SOAP)\nData management & Data Loader\nObject-oriented programming\nVersion control (Git)\nUnit testing & code coverage\nCI/CD for Salesforce\nProblem-solving & communication skills\n"
+}

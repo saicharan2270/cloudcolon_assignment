@@ -1,0 +1,25 @@
+Michael Miller
+m | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 5 years of experience in software development and technology solutions.
+
+SKILLS
+Testing, Ruby, Kotlin, Azure, Html, Cpq, Vue, Integration, Go, Spring, Dx, Angular, Api, Javascript, Java, React, Service Cloud, C++, Salesforce, Kubernetes, Lightning, Heroku, Express, Aws, Apex, Soql, Soap
+
+EXPERIENCE
+Senior Salesforce Developer at Cognizant - 2 years
+Worked on senior salesforce developer projects
+
+Lightning Developer at Google - 3 years
+Worked on lightning developer projects
+
+Salesforce Developer at Oracle - 1 years
+Worked on salesforce developer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+Administrator

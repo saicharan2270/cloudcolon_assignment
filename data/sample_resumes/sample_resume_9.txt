@@ -1,0 +1,22 @@
+Timothy Lopez
+t | + | Seattle, WA
+
+SUMMARY
+Experienced professional with 7 years of experience in software development and technology solutions.
+
+SKILLS
+Illustrator, Kotlin, Azure, Jira, Excel, Html, Cpq, Visualforce, Word, Vue, Integration, Dx, Node.Js, Angular, Api, Javascript, Git, Service Cloud, Sosl, Rest, Kubernetes, Lightning, Heroku, Apex, Scrum, Soql, Soap
+
+EXPERIENCE
+Frontend Developer at PwC - 1 years
+Worked on frontend developer projects
+
+System Administrator at Accenture - 3 years
+Worked on system administrator projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Sales Cloud Consultant, Service Cloud Consultant, Marketing Cloud Consultant

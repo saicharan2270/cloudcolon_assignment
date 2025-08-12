@@ -1,0 +1,22 @@
+Amanda Green
+a | + | New York, NY
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Slack, C#, Illustrator, Ruby, Outlook, Trello, Php, Cpq, Wordpress, Swift, Vue, Dx, Python, Api, Sosl, Docker, Marketing Cloud, Salesforce, Kubernetes, Lightning, Heroku, Aws, Soql, Jira
+
+EXPERIENCE
+Developer at Zendesk - 1 years
+Worked on developer projects
+
+Developer at Cognizant - 2 years
+Worked on developer projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Integration Architecture Designer

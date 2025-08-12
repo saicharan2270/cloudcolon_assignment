@@ -1,0 +1,22 @@
+Helen Jackson
+h | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+C#, Illustrator, Ruby, Outlook, Kotlin, Jira, Trello, Excel, Swift, Word, Vue, Spring, Node.Js, Python, Asana, React, Service Cloud, Docker, C++, Powerpoint, Django, Salesforce, Scrum, Soap
+
+EXPERIENCE
+Senior Salesforce Developer at Infosys - 1 years
+Worked on senior salesforce developer projects
+
+Salesforce Consultant at Microsoft - 2 years
+Worked on salesforce consultant projects
+
+
+EDUCATION
+Bachelor of Arts in Computer Science
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Administrator, Sales Cloud Consultant, CPQ Specialist

@@ -1,0 +1,22 @@
+Christopher Mitchell
+c | + | New York, NY
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Teams, Jira, Excel, Php, Cpq, Visualforce, Swift, Integration, Go, Dx, Node.Js, Angular, Agile, Javascript, Java, Sosl, Docker, Rest, Marketing Cloud, Powerpoint, Rust, Lightning, Heroku, Express, Aws, Apex, Sql, Soql, Soap
+
+EXPERIENCE
+System Administrator at Google - 3 years
+Worked on system administrator projects
+
+Lightning Developer at Zendesk - 1 years
+Worked on lightning developer projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Platform Developer I, Sales Cloud Consultant, CPQ Specialist, Marketing Cloud Consultant

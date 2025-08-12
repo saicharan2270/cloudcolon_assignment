@@ -1,0 +1,19 @@
+Melissa Wilson
+m | + | Seattle, WA
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Kotlin, Teams, Trello, Php, Html, Cpq, Visualforce, Vue, Integration, Dx, Node.Js, Angular, Python, Api, Java, React, Service Cloud, Sosl, Docker, Marketing Cloud, Powerpoint, Salesforce, Kubernetes, Lightning, Heroku, Express, Aws, Apex, Scrum, Soql, Soap
+
+EXPERIENCE
+System Administrator at IBM - 3 years
+Worked on system administrator projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer II, CPQ Specialist

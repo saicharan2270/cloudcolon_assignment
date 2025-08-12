@@ -1,0 +1,22 @@
+Stephanie Baker
+s | + | New York, NY
+
+SUMMARY
+Experienced professional with 1 years of experience in software development and technology solutions.
+
+SKILLS
+Testing, Illustrator, Kotlin, Azure, Jira, Trello, Cpq, Visualforce, Swift, Vue, Spring, Dx, Angular, Javascript, React, Sosl, Docker, Rest, Marketing Cloud, C++, Django, Rust, Lightning, Aws, Apex, Sql, Soql, Soap
+
+EXPERIENCE
+Lightning Developer at Zendesk - 2 years
+Worked on lightning developer projects
+
+Software Engineer at PwC - 3 years
+Worked on software engineer projects
+
+
+EDUCATION
+Associate Degree in Programming
+
+CERTIFICATIONS
+Administrator

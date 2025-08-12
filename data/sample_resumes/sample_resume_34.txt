@@ -1,0 +1,19 @@
+Nicole Diaz
+n | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, Testing, C#, Illustrator, Ruby, Outlook, Kotlin, Azure, Trello, Excel, Php, Cpq, Visualforce, Wordpress, Word, Spring, Go, Angular, Python, Api, Asana, Docker, Rest, C++, Django, Powerpoint, Salesforce, Rust, Express, Jira
+
+EXPERIENCE
+Salesforce Developer at Google - 2 years
+Worked on salesforce developer projects
+
+
+EDUCATION
+Bachelor of Arts in Computer Science
+
+CERTIFICATIONS
+Platform Developer I

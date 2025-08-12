@@ -1,0 +1,25 @@
+Ruth White
+r | + | San Francisco, CA
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Photoshop, C#, Ruby, Outlook, Teams, Azure, Jira, Trello, Cpq, Visualforce, Wordpress, Swift, Word, Integration, Go, Spring, Node.Js, Agile, Asana, Java, Service Cloud, Rest, Marketing Cloud, C++, Django, Powerpoint, Salesforce, Rust, Kubernetes, Express, Css, Apex, Soap
+
+EXPERIENCE
+Salesforce Developer at IBM - 2 years
+Worked on salesforce developer projects
+
+Developer at Wipro - 2 years
+Worked on developer projects
+
+Programmer at Infosys - 1 years
+Worked on programmer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+None

@@ -1,0 +1,22 @@
+Anthony Baker
+a | + | Austin, TX
+
+SUMMARY
+Experienced professional with 6 years of experience in software development and technology solutions.
+
+SKILLS
+Php, Html, Cpq, Visualforce, Swift, Integration, Dx, Node.Js, Agile, Api, Javascript, Java, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, Django, Powerpoint, Salesforce, Lightning, Heroku, Aws, Apex, Sql, Soql, Soap
+
+EXPERIENCE
+Senior Salesforce Developer at EY - 1 years
+Worked on senior salesforce developer projects
+
+Salesforce Developer at EY - 1 years
+Worked on salesforce developer projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer I, Platform Developer II, Service Cloud Consultant, Integration Architecture Designer

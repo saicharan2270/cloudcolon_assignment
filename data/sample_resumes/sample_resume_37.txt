@@ -1,0 +1,19 @@
+Melissa Diaz
+m | + | Seattle, WA
+
+SUMMARY
+Experienced professional with 1 years of experience in software development and technology solutions.
+
+SKILLS
+Ruby, Kotlin, Teams, Trello, Excel, Php, Wordpress, Swift, Word, Spring, Go, Node.Js, Angular, Python, Asana, React, Marketing Cloud, Powerpoint, Rust, Lightning, Heroku
+
+EXPERIENCE
+Salesforce Engineer at Cognizant - 2 years
+Worked on salesforce engineer projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Platform Developer I, Marketing Cloud Consultant

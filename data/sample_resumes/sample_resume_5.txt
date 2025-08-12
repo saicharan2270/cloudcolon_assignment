@@ -1,0 +1,22 @@
+Joshua Brown
+j | + | Austin, TX
+
+SUMMARY
+Experienced professional with 3 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, Kotlin, Html, Cpq, Visualforce, Wordpress, Word, Vue, Integration, Dx, Node.Js, Python, Api, Javascript, Java, Service Cloud, Sosl, Docker, Rest, Marketing Cloud, Salesforce, Lightning, Heroku, Express, Aws, Apex, Soql, Soap
+
+EXPERIENCE
+Apex Developer at Google - 1 years
+Worked on apex developer projects
+
+Frontend Developer at Adobe - 1 years
+Worked on frontend developer projects
+
+
+EDUCATION
+Bachelor of Science in Computer Science
+
+CERTIFICATIONS
+Sales Cloud Consultant, Service Cloud Consultant, CPQ Specialist, Marketing Cloud Consultant, Integration Architecture Designer

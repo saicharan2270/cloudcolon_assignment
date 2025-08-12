@@ -1,0 +1,25 @@
+Thomas Lopez
+t | + | New York, NY
+
+SUMMARY
+Experienced professional with 2 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, C#, Illustrator, Outlook, Kotlin, Teams, Excel, Php, Html, Visualforce, Wordpress, Swift, Word, Spring, Go, Dx, Api, Asana, Git, Service Cloud, Rest, C++, Django, Rust, Express, Jira
+
+EXPERIENCE
+Software Engineer at Cognizant - 2 years
+Worked on software engineer projects
+
+Senior Salesforce Developer at Workday - 1 years
+Worked on senior salesforce developer projects
+
+Programmer at Microsoft - 3 years
+Worked on programmer projects
+
+
+EDUCATION
+Bachelor of Engineering in Information Technology
+
+CERTIFICATIONS
+Platform Developer II, Service Cloud Consultant

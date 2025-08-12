@@ -1,0 +1,22 @@
+Kevin Scott
+k | + | Boston, MA
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Slack, C#, Outlook, Kotlin, Teams, Jira, Trello, Php, Wordpress, Swift, Word, Spring, Go, Agile, Asana, Docker, Rest, C++, Django, Rust, Aws, Soap
+
+EXPERIENCE
+Software Engineer at Infosys - 2 years
+Worked on software engineer projects
+
+Software Engineer at Cognizant - 2 years
+Worked on software engineer projects
+
+
+EDUCATION
+Master of Science in Software Engineering
+
+CERTIFICATIONS
+Service Cloud Consultant, CPQ Specialist

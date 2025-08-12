@@ -1,0 +1,25 @@
+Jeffrey Clark
+j | + | Chicago, IL
+
+SUMMARY
+Experienced professional with 0 years of experience in software development and technology solutions.
+
+SKILLS
+Illustrator, Ruby, Outlook, Kotlin, Teams, Php, Visualforce, Word, Vue, Spring, Dx, Agile, Asana, Javascript, Django, Salesforce, Rust, Heroku, Express, Aws, Apex, Soql
+
+EXPERIENCE
+Software Engineer at Infosys - 1 years
+Worked on software engineer projects
+
+Salesforce Developer at IBM - 3 years
+Worked on salesforce developer projects
+
+Programmer at Oracle - 1 years
+Worked on programmer projects
+
+
+EDUCATION
+Master of Business Administration
+
+CERTIFICATIONS
+Integration Architecture Designer
