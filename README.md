@@ -56,48 +56,15 @@ This project implements an automated resume screening system that processes resu
 
 You can access the live demo of this application deployed on Streamlit Community Cloud:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+https://salesforcehiring-app.streamlit.app/
 
-## 🔧 Deployment
 
-This app is configured for easy deployment on Streamlit Community Cloud:
-
-1. Fork this repository
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub account
-4. Select this repository
-5. Set the main file path to `app.py`
-6. Deploy!
-
-The app will automatically install all dependencies from `requirements.txt` and `packages.txt`.
-
-## Usage
-
-1. **Generate Sample Resumes**:
-   ```bash
-   python src/generate_samples.py
-   ```
-
-2. **Process Resumes**:
-   ```bash
-   python src/main.py
-   ```
-
-3. **View Results**:
-   - Open the Streamlit dashboard
-   - Upload resumes or use sample data
-   - View rankings, skill analysis, and visualizations
-
-## Evaluation Criteria Addressed
-
-- ✅ **Resume Parsing Quality (25%)**: Robust parsing of multiple formats
-- ✅ **Matching Logic & Model Approach (30%)**: TF-IDF + BERT embeddings
-- ✅ **Code Structure & Documentation (20%)**: Modular, well-documented code
-- ✅ **Visualization/Dashboard (15%)**: Interactive Streamlit dashboard
-- ✅ **Creativity/Bonus Features (10%)**: Duplicate detection, skill clustering
 
 ## Technologies Used
 - **NLP**: spaCy, NLTK, Transformers
 - **ML**: scikit-learn, sentence-transformers
 - **Visualization**: Streamlit, Plotly, WordCloud
 - **Document Processing**: PyPDF2, python-docx 
+
+
+link:- https://salesforcehiring-app.streamlit.app/
